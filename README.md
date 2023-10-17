@@ -49,7 +49,7 @@ You should now have your app running in Chrome on `http://localhost:3000`
 
 - [X] Now that we have access to `setMovies`, made sure the updated list of movies is saved to our global state.
 
-- [ ] Redirect the user to the currently edited movie's individual info page.
+- [X] Redirect the user to the currently edited movie's individual info page.
 
 #### Deleting a Movie
 >
